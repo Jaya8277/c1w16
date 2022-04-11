@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import GroceryDetails from './components/Grocerydetails';
+// import GroceryDetails from './components/Card'
 
 function App() {
   return (
